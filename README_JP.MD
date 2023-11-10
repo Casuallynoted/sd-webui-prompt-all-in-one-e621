@@ -26,6 +26,13 @@ sd-webui-prompt-all-in-oneは、[stable-diffusion-webui](https://github.com/AUTO
 
 ----
 
+**⭐️⭐️⭐️ このプロジェクトは、stable-diffusion-webuiに依存せずに独立したスタンドアロンバージョンを開発しました。軽量でコンパクトであり、プロンプトの編集と整理に焦点を当てています。使用方法については、[Physton/sd-webui-prompt-all-in-one-app](https://github.com/Physton/sd-webui-prompt-all-in-one-app) をご覧ください。**
+**⭐️⭐️⭐️
+このプロジェクトは、stable-diffusion-webuiに依存せずに独立したスタンドアロンバージョンを開発しました。軽量でコンパクトであり、プロンプトの編集と整理に焦点を当てています。使用方法については、[Physton/sd-webui-prompt-all-in-one-app](https://github.com/Physton/sd-webui-prompt-all-in-one-app)
+をご覧ください。**
+
+----
+
 もし拡張機能が役に立つと思った場合は、GitHubでスターをつけていただけると嬉しいです！また、コーヒーをご馳走いただける場合は、[寄付](#寄付)をお願いします。
 
 ----
@@ -156,8 +163,9 @@ sd-webui-prompt-all-in-oneは、[stable-diffusion-webui](https://github.com/AUTO
 
 ### コーヒーをおごってください
 
-| ko-fi (EN) | [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/physton) |
+| Buy me a coffee (EN) | [![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/physton) |
 |:-----------:| :----: |
+| ko-fi (EN) | [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/physton) |
 | Paypal (EN) | [https://paypal.me/physton](https://paypal.me/physton) |
 | 爱发电 (CN) | [https://afdian.net/a/physton/thank](https://afdian.net/a/physton/thank) |
 | 支付宝 (CN) | ![](https://s1.imagehub.cc/images/2023/07/05/alipay.jpeg) |

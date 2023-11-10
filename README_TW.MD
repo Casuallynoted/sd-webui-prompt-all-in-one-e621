@@ -26,6 +26,10 @@ sd-webui-prompt-all-in-one 是一個基於 [stable-diffusion-webui](https://gith
 
 ----
 
+**⭐️⭐️⭐️ 本專案已開發獨立運行版本，不依賴 stable-diffusion-webui 既可運行。輕巧小巧，專注於提示詞的編輯和整理。前往 [Physton/sd-webui-prompt-all-in-one-app](https://github.com/Physton/sd-webui-prompt-all-in-one-app) 查看使用教程。**
+
+----
+
 > 如果你覺得這個擴展有幫助，請在Github上給我一顆星！
 > 你也可以請我喝杯咖啡: [donate](#捐贈)
 
@@ -161,8 +165,9 @@ sd-webui-prompt-all-in-one 是一個基於 [stable-diffusion-webui](https://gith
 
 ### 請我喝杯咖啡
 
-| ko-fi (EN) | [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/physton) |
+| Buy me a coffee (EN) | [![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/physton) |
 |:-----------:| :----: |
+| ko-fi (EN) | [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/physton) |
 | Paypal (EN) | [https://paypal.me/physton](https://paypal.me/physton) |
 | 爱发电 (CN) | [https://afdian.net/a/physton/thank](https://afdian.net/a/physton/thank) |
 | 支付宝 (CN) | ![](https://s1.imagehub.cc/images/2023/07/05/alipay.jpeg) |
